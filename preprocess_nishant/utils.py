@@ -175,6 +175,7 @@ def _remove_accented_chars(x):
 	return x
 
 def _remove_stopwords(x):
+	from spacy.lang.en.stop_words import STOP_WORDS as stopwords
 	return ' '.join([t for t in x.split() if t not in stopwords])	
 
 def _make_base(x):
