@@ -1,6 +1,6 @@
 from preprocess_nishant import utils
 
-__version__ = '0.0.5'
+__version__ = '0.0.6'
 
 def get_wordcounts(x):
 	return utils._get_wordcounts(x)
@@ -53,7 +53,6 @@ def remove_html_tags(x):
 
 def remove_accented_chars(x):
 	return utils._remove_accented_chars(x)
-
 
 def remove_stopwords(x):
 	return utils._remove_stopwords(x)
