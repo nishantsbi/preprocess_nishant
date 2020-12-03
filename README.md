@@ -6,7 +6,7 @@ This python package is prepared by YourName.
 
 Install
 
-`pip install git+ssh://git@github.com:nishantsbi/preprocess_nishant.git`
+`pip install git+ssh://git@github.com/nishantsbi/preprocess_nishant.git`
 
 Uninstall
 
