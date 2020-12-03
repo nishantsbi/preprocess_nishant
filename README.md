@@ -6,8 +6,8 @@ This python package is prepared by YourName.
 
 Install
 
-`pip install git+ssh://git@github.com/kgptalkie/preprocess_kgptalkie.git`
+`pip install git+ssh://git@github.com:nishantsbi/preprocess_nishant.git`
 
 Uninstall
 
-`pip uninstall preprocess_kgptalkie`
+`pip uninstall preprocess_nishant`
