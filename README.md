@@ -40,7 +40,7 @@ Use this if you want to use one by one
 ```
 import pandas as pd
 import numpy as np
-import preprocess_kgptalkie as ps
+import preprocess_nishant as ps
 
 df = pd.read_csv('imdb_reviews.txt', sep = '\t', header = None)
 df.columns = ['reviews', 'sentiment']
