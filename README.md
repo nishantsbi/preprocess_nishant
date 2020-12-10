@@ -1,10 +1,9 @@
 # Preprocessing Text Python Package
 
-#### Course Link: https://bit.ly/intro_nlp
-
 This python package is prepared by Nishant Upadhyay.
 
 Dependencies
+
 ```
 pip install spacy==2.2.3
 python -m spacy download en_core_web_sm
@@ -20,7 +19,6 @@ Uninstall
 `pip uninstall preprocess_nishant`
 
 #### How to use it for preprocessing
-You have to have installed spacy and python3 to make it work.
 
 ```
 def get_clean(x):
