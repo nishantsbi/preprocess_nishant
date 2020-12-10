@@ -1,6 +1,6 @@
 from preprocess_nishant import utils
 
-__version__ = '0.0.9'
+__version__ = '0.0.10'
 
 def get_wordcounts(x):
 	return utils._get_wordcounts(x)
